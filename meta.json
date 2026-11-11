@@ -1,0 +1,28 @@
+{
+  "A": 16,
+  "N": 1424,
+  "Q": 89,
+  "aviso": "El sistema privado es otro miembro de la familia, con otro tamaño y otro parametro. Este señuelo no es el sujeto.",
+  "es_senuelo": true,
+  "estados_sha256": "5810d33aab548b9941c14ca70f4aa7ce6503e084ec3b8109108542878d65c65a",
+  "familia": "anillo-3",
+  "grafo_sha256": "802f40b11e4f6a85f9886c0636af48cf624afbb9bdc5842930590c21bca1cb93",
+  "mundo": {
+    "A": 16,
+    "Q": 89,
+    "en_ciclo": 112,
+    "n": 1424,
+    "psi": 5
+  },
+  "nombre": "sistema-publico-3-mundos",
+  "pasos": 1424,
+  "psi": 5,
+  "semillas_publicas": {
+    "desde": 0,
+    "hasta": 99,
+    "n": 100
+  },
+  "sujeto_privado": false,
+  "t": 1424,
+  "tipo": "senuelo-publico"
+}

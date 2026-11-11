@@ -1,0 +1,32 @@
+{
+  "_instrucciones": "Copia este fichero a criterios/tu-nombre.json, rellena los campos y sella con sellador_publico.py. Esta clave empieza por _ y no entra en la huella; puedes dejarla o borrarla.",
+  "autor": "Tu Nombre <tu@ejemplo.org>",
+  "sistema": "clase-anillo-3",
+  "capacidad": "describe la capacidad sin nombrar el sistema",
+  "medida": "uniforme",
+  "criterio": {
+    "var": "en_ciclo"
+  },
+  "parametros_libres": [],
+  "falsadores": [
+    {
+      "nombre": "ningun estado tiene mas de dos preimagenes",
+      "condicion": {
+        "op": ">",
+        "a": {
+          "var": "n_preimagenes"
+        },
+        "b": {
+          "const": 2
+        }
+      }
+    }
+  ],
+  "pre_registro": {
+    "fecha": "2026-01-01T00:00:00Z",
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "autor": "Tu Nombre <tu@ejemplo.org>",
+    "metodo": "sha256(json canonico sin pre_registro/historial_ajustes/_*)"
+  },
+  "historial_ajustes": []
+}

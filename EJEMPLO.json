@@ -1,0 +1,31 @@
+{
+  "autor": "Autora de Ejemplo <autora@ejemplo.org>",
+  "sistema": "clase-anillo-3",
+  "capacidad": "fraccion de estados que estan en un ciclo",
+  "medida": "uniforme",
+  "criterio": {
+    "var": "en_ciclo"
+  },
+  "parametros_libres": [],
+  "falsadores": [
+    {
+      "nombre": "ningun estado tiene mas de dos preimagenes",
+      "condicion": {
+        "op": ">",
+        "a": {
+          "var": "n_preimagenes"
+        },
+        "b": {
+          "const": 2
+        }
+      }
+    }
+  ],
+  "pre_registro": {
+    "fecha": "2026-11-09T00:00:00Z",
+    "sha256": "c3485ecefe81e0c76b0f43b52367bd2378f8a09108842ab0bfaf5e8842cd0074",
+    "autor": "Autora de Ejemplo <autora@ejemplo.org>",
+    "metodo": "sha256(json canonico sin pre_registro/historial_ajustes/_*)"
+  },
+  "historial_ajustes": []
+}
