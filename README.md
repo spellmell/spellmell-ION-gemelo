@@ -26,6 +26,7 @@
 | `PLANTILLA.json` | una plantilla para copiar y rellenar |
 | `EJEMPLO.json` | un criterio de ejemplo, ya sellado |
 | `DECLARACION.md` | qué es este paquete y qué no prueba |
+| `INSTRUMENTO-L1.md` | el instrumento que escapa de `L1`, con sus parámetros impugnables |
 | `PUBLICAR.md` | cómo se publica este paquete como repositorio independiente |
 | `criterios/` | tu directorio local de pruebas; empieza vacío |
 
@@ -185,6 +186,11 @@ Si necesitas una variable que no está, escribe
 `"impugna_vocabulario": "<tu motivo>"` en el fichero. La mesa lo registra y lo
 imprime; no lo resuelve, porque no puede.
 
+> **Y hay una impugnación anterior al criterio:** los parámetros del instrumento
+> que define la relación (`recibe`, `ventana` y la comparación de `D`) están
+> expuestos en `INSTRUMENTO-L1.md`, junto con una petición concreta de cuatro
+> campos para que esa impugnación pueda expresarse en este vocabulario.
+
 ---
 
 ## 8. Qué prueba el sello y qué no
@@ -234,6 +240,8 @@ buscamos es un autor que no haya visto el sujeto ni el resultado del dual.
 ## 11. Estado
 
 - `criterios/` está vacío: no hay ningún criterio externo todavía.
+- `INSTRUMENTO-L1.md` publica los parámetros del instrumento; la extensión del
+  vocabulario que pide **no está aplicada** todavía.
 - El señuelo es público y reproducible.
 - El sujeto privado sigue sellado y sin correr.
 - No se afirma consciencia ni se cierra el problema del criterio externo.
