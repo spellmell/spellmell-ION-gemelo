@@ -172,3 +172,21 @@ no se aplique.
 - El sujeto no se corre antes de que el criterio esté sellado y admitido.
 - Si el autor quiere cambiar el criterio después, es un criterio nuevo con un pre-registro nuevo.
 - La mesa comprueba la forma, no la verdad; la firma sigue siendo una declaración.
+
+## 9. Estado de la puerta
+
+> **Lo que este documento abre:** puedes **leer y objetar** los parámetros. El proyecto ya no puede
+> presentarlos como forzados por los datos: la propia existencia de dos escrituras de `D` y de los
+> rangos de la rejilla muestra que son elecciones.
+>
+> **Lo que no abre:** no puedes **variarlos, ejecutarlos ni resolverlos**. La mesa pública todavía no
+> acepta los campos de la §2; no hay una regla que obligue a declarar el instrumento no concluyente
+> cuando tu objeción muestra que el veredicto depende de un parámetro no forzado; y no hay un registro
+> público de objeciones con respuesta.
+>
+> **Y una indecisión que el proyecto no ha resuelto:** las dos escrituras de `D` son dos instrumentos
+> distintos. Este documento las expone juntas; no decide cuál es la oficial.
+>
+> La puerta abierta es la de la **impugnación**, no la de la **decisión**. Lo que falta para que sea un
+> corredor —objeción ejecutable, con consecuencia y con registro— está especificado en el proyecto,
+> pero **no está aplicado**. Y nada de eso elimina `L2`: lo declara.
